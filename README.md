@@ -26,8 +26,8 @@ Below is a screenshot of my solution
 
 ### Links
 
-- Solution URL: [This is the link to the solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Live Site URL: [This is the link to the live site](https://qr-code-dun-theta.vercel.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-qrcode-component-with-flexbox-oBd9DpOO6R)
+- Live Site URL: [Vercel](https://qr-code-dun-theta.vercel.app/)
 
 ## My process
 
