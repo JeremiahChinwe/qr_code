@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    width: 100%;
+    padding: 16px;
+}
+
+.box {
+    width: 375px;
+    height: fit-content;
+    padding: 16px 16px 2rem 16px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+
+.box img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.box h1 {
+    font-size: 24px;
+    padding: 19px;
+    padding-bottom: 0;
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.box p {
+    color: hsl(220, 15%, 55%);
+    padding: 19px;
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.box .attribution {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.box .attribution p {
+    color: hsl(220, 15%, 55%);
+    display: inline-block;
+    flex-wrap: nowrap;
+    font-size: 11px;
+    padding: 11px;
+    padding-bottom: 0;
+    line-height: 1rem;
+}
+
+.box .attribution p a {
+    color: hsl(228, 45%, 44%);
+    text-decoration: none;
+}
+
+.box .attribution p a:hover {
+    text-decoration: underline;
+}
