@@ -9,6 +9,9 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 
+/* git remote add origin https://github.com/JeremiahChinwe/qr_code.git
+git push -u origin main */
+
 main {
     display: flex;
     align-items: center;
